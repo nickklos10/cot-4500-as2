@@ -29,3 +29,16 @@ Cubic spline interpolation involves constructing a piecewise polynomial function
 3. print_hermite_table(x, f_x, f_prime_x, divided_diffs): Prints the Hermite divided difference table.
 4. cubic_spline_coefficients(x_vals, y_vals): Calculates and returns the coefficients for cubic spline interpolation.
 
+### How to run the script
+
+1. **Install Python:** Ensure that Python is installed on your computer. If it's not installed, you can download and install it from python.org.
+2. **Install NumPy:** The code requires NumPy, a popular Python library for numerical computations. If you don't have NumPy installed, you can install it using pip (Python's package installer). Open a terminal or command prompt and run the following command:
+
+pip install numpy
+
+
+3. **Run the Code:** Open a terminal or command prompt. Navigate to the directory where you saved assignment_2.py. You can run the Python script by executing the following command:
+
+python assignment_2.py
+
+By following these steps, you should be able to run the Python code successfully and view the results of the various interpolation methods.
